@@ -1,0 +1,11 @@
+.Balance{
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    padding: 0 10px;
+    border-radius: 5px;
+    background-color:rgb(204, 181, 226);
+}
